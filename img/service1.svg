@@ -1,0 +1,14 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#60b8d4"/>
+      <stop offset="100%" stop-color="#2d7fa8"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#g)"/>
+  <circle cx="510" cy="108" r="228" fill="white" opacity="0.08"/>
+  <circle cx="72" cy="492" r="168" fill="white" opacity="0.08"/>
+  <text x="300" y="276" font-family="Arial,sans-serif" font-size="132" text-anchor="middle" fill="white" opacity="0.95">&#128118;</text>
+  <text x="300" y="408" font-family="Arial,sans-serif" font-size="54" font-weight="bold" fill="white" text-anchor="middle" opacity="0.95">Pouponniere</text>
+  <text x="300" y="492" font-family="Arial,sans-serif" font-size="37" fill="white" text-anchor="middle" opacity="0.75">3 mois - 18 mois</text>
+</svg>

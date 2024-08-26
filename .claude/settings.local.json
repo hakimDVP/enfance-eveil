@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(sed -i -e 's|<a class=\"nav-link\" href=\"#about\">About</a>|<a class=\"nav-link\" href=\"#about\">À propos</a>|g' -e 's|<a class=\"nav-link\" href=\"#team\">Team</a>|<a class=\"nav-link\" href=\"#team\">Équipe</a>|g' -e 's|<a class=\"nav-link\" href=\"#activities\">Activities</a>|<a class=\"nav-link\" href=\"#activities\">Activités</a>|g' -e 's|<a class=\"nav-link\" href=\"#gallery\">Gallery</a>|<a class=\"nav-link\" href=\"#gallery\">Galerie</a>|g' index-video.html)",
+      "Bash(python3 -c ' *)"
+    ]
+  }
+}
